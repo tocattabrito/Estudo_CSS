@@ -1,0 +1,67 @@
+/* Seletor de Tags ou Tipo*/
+h1 {
+   background:  darkblue; 
+   color: lightgreen;
+}
+
+
+div {
+    background: lightblue;
+    color: darkblue;
+}
+
+li {
+    background: whitesmoke;
+}
+
+/* Seletor de ID*/
+#texto-boas-vindas {
+    background: red;
+    color: white;
+}
+
+/* Seletor de Class */
+.seletores-mais-comuns {
+    color: red;
+}
+
+.texto-maiusculo {
+    text-transform: uppercase;
+}
+
+/* seletor universal 
+* {
+    font-weight: bolder;
+}
+*/
+
+/* 
+Seletor de atributo 
+ [atrib~=value]{
+ }
+ 
+ [atrib^=value] { // prefixo
+ }
+ 
+ [atrib$=value] { // sufixo
+ }
+
+ [atrib*=value] { // pesquisa ocorrencia da palavra escolhida
+ }
+ 
+*/
+[title="Netflix"] {
+    color: red;
+}
+
+[title="Spotify"] {
+    color: green;
+}
+
+[title="Prime"] {
+    color: blue;
+}
+
+[title="Disney"] {
+    color: red;
+}
