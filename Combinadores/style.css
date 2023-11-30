@@ -1,5 +1,35 @@
-h1 {
-    color: red;
+
+
+
+ /*exemplo - 03*/
+
+p.texto {
+    color: blueviolet;
 }
 
 
+
+
+
+ /*
+exemplo - 02
+.texto, h1, #link-referencia{
+    color: red
+}
+
+h1, [id^='botao'] {
+    background: lightgray;
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+*/
+
+
+/*
+exemplo - 01
+h1, p, div {
+    color: red;
+    background: lightblue;
+}
+*/
