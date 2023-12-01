@@ -1,0 +1,30 @@
+/*Combinador de Descendecia*/
+
+/*
+
+
+
+li li {
+    color: green;
+}
+
+#lista-01 li {
+    background: lightblue;
+}
+*/
+
+.fundo-verde li {
+    background:lightgreen;
+}
+
+.fundo-azul li {
+    background: lightblue;
+}
+
+li {
+    color: red;
+}
+
+.fundo-verde #sublista-01 li {
+    color: black;
+}
