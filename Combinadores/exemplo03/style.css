@@ -1,0 +1,24 @@
+/* 
+    Seleciona todos os descendentes da 
+    div que possuem a tag p
+*/
+/* 
+div p {
+    background: lightgreen;
+}
+*/
+
+
+/* Uso do combinador filho */
+/* 
+div > p {
+    color: red;
+}
+*/
+.fundo-azul > p {
+    background: lightblue;
+}
+
+.fundo-verde > p {
+    background: lightgreen;
+}
