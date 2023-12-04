@@ -1,0 +1,17 @@
+/* div + p {
+   color: tomato; 
+}
+.fundo-verde + p {
+    background: lightgreen;
+} */
+
+/* div ~ p {
+   color: tomato; 
+}
+.fundo-verde ~ p {
+    background: lightgreen;
+} */
+
+.fundo-roxo  p ~ p {
+    background: lightgreen;
+}
