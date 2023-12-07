@@ -16,3 +16,9 @@ button {
     background: lightgreen;
     height: inherit;
 }
+button {
+    background: lawngreen;
+    color: darkmagenta;
+    max-width: 500px;
+    min-height: 150;
+}
